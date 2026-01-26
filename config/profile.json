@@ -1,0 +1,8 @@
+{
+  "roles": ["PMO", "Project Manager", "System Implementer", "מנהל פרויקטים", "מטמיע"],
+  "seniority": "junior",
+  "locations": ["ירושלים", "מרכז", "שפלה"],
+  "skills": ["SAP", "QLIK", "Power BI", "SQL", "Monday", "KPI"],
+  "exclude": ["מכירות", "call center", "משמרות", "טלמרקטינג"],
+  "min_score": 75
+}
